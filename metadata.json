@@ -1,0 +1,5 @@
+{
+  "name": "Habitica Bingo",
+  "description": "A local, browser-based application to create and track bingo cards using your tasks from Habitica. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
