@@ -1,39 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Habitica Bingo App
+Hi! My name is [@hongweibing](https://habitica.com/profile/d5edea78-6f44-43d6-83ef-fc9da1cbcae2) 
 
 This is an online application to create and track bingo cards using your tasks from Habitica. All data is stored locally in your browser.
 
-## Run Locally
+I am a big fan of Habitica, and I am trying to make the experience of using it even better. On [this page](https://storm-girdle-c18.notion.site/Useful-tools-for-Habitica-26486e08ea8a80f791bbd192356d3c6c), I will post useful scripts, utilities, apps and other materials that may be useful to you. If you have any ready-made materials or ideas, you can write to me.
 
-**Prerequisites:** Node.js
+You can also give me a couple of gems if you find these materials useful :) But this is not necessary. The main thing is to develop yourself and achieve your goals! 
 
-1.  **Install dependencies:**
-    `npm install`
-2.  **Run the app:**
-    `npm run dev`
-    
-    The application will be available at `http://localhost:3000`.
+Good luck!
 
-## Deploy to GitHub Pages
-
-This project is configured for easy deployment to GitHub Pages.
-
-1.  **Set the `homepage` URL:**
-    Open the `package.json` file and change the `homepage` value to your GitHub Pages URL.
-    For example: `"homepage": "https://<YOUR_USERNAME>.github.io/<YOUR_REPOSITORY_NAME>/"`
-
-2.  **Set the `base` path:**
-    Open the `vite.config.ts` file and change the `base` value to match your repository name.
-    For example: `base: '/<YOUR_REPOSITORY_NAME>/'`
-
-3.  **Deploy:**
-    Run the following command in your terminal:
-    `npm run deploy`
-    
-    This command will automatically build your application and push the result to a `gh-pages` branch on your repository.
-
-4.  **Configure GitHub Pages:**
-    In your GitHub repository settings, navigate to the "Pages" section and set the source to deploy from the `gh-pages` branch. Your site will be live within a few minutes.
